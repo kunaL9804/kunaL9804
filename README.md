@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Saini.</h1>
 <h2 align="center">I'm passionate about Data Science from India.</h2>
-<img align="right" alt="coding" width="340" src="https://i.pinimg.com/564x/15/dc/78/15dc789f9c216bb125b56d7465a1c337.jpg">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/10105303/screenshots/20181410/media/a8e063672eda3e3095d76084e31006e3.png?compress=1&resize=400x300&vertical=top">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal9804&label=Profile%20views&color=0e75b6&style=flat" alt="kunal9804" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kunall0_0ll" target="blank"><img src="https://img.shields.io/twitter/follow/kunall0_0ll?logo=twitter&style=for-the-badge" alt="kunall0_0ll" /></a> </p>
