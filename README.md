@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Saini.</h1>
-<h2 align="center">I'm passionate about Data Science from India.</h2>
+<h2 align="center">I'm from India and passionate about Data Science.</h2>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/10105303/screenshots/20187422/media/2ea8189530edb0a5c181eeb592760da2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal9804&label=Profile%20views&color=0e75b6&style=flat" alt="kunal9804" /> </p>
 
