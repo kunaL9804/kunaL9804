@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal9804&label=Profile%20views&color=0e75b6&style=flat" alt="kunal9804" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kunall0_0ll" target="blank"><img src="https://img.shields.io/twitter/follow/kunall0_0ll?logo=twitter&style=for-the-badge" alt="kunall0_0ll" /></a> </p>
-<h3>
+<h4>
   
 - 🌱 I’m currently learning **AI/ML**
 
@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I think I am ....**
   
-</h3>
+</h4>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/kunall0_0ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunall0_0ll" height="40" width="50" /></a>
