@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 💬 Ask me about **Data Analyst**
+- 💬 Ask me about **Data Analysis**
 
 - 📫 How to reach me **kunal.saini2002.ks3@gmail.com**
 
