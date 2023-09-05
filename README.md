@@ -29,28 +29,42 @@
     <img align="center" src="https://github.com/kunaL9804/Images_and_Stuff/blob/main/Telegram_logo.svg" alt="Your Telegram" height="40" width="50" /></a>
 </p>
 
-
 <h2 align="left">Languages and Tools:</h2>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="45" height="45"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="45" height="45"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="45" height="45"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a> 
 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> </a> 
+<!-- Block 1 - Programming Languages -->
+<div align="center">
+  <h3>Programming Languages</h3>
+  <img src="https://github.com/kunaL9804/Images_and_Stuff/blob/main/Language_and_Tools/c%2B%2B.svg" alt="C++" width="40" height="40">
+  <img src="https://github.com/kunaL9804/Images_and_Stuff/blob/main/Language_and_Tools/python.svg" alt="Python" width="40" height="40">
+  <img src="https://github.com/kunaL9804/Images_and_Stuff/blob/main/Language_and_Tools/matlab.svg" alt="Matlab" width="40" height="40">
+</div>
 
-<a href="msexcel.com" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="MS_Excel" width="45" height="45"/> </a> 
-  
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a> </p>
+<!-- Block 2 - Data Science Libraries -->
+<div align="center">
+  <h3>Data Science Libraries</h3>
+  <img src="https://github.com/kunaL9804/Images_and_Stuff/blob/main/Language_and_Tools/numpy.svg" alt="NumPy" width="40" height="40">
+  <img src="https://github.com/kunaL9804/Images_and_Stuff/blob/main/Language_and_Tools/pandas.svg" alt="Pandas" width="40" height="40">
+  <img src="https://github.com/kunaL9804/Images_and_Stuff/blob/main/Language_and_Tools/matplotlib.svg" alt="Matplotlib" width="40" height="40">
+  <img src="https://github.com/kunaL9804/Images_and_Stuff/blob/main/Language_and_Tools/seaborn.svg" alt="Seaborn" width="40" height="40">
+  <img src="https://github.com/kunaL9804/Images_and_Stuff/blob/main/Language_and_Tools/sk learn.svg" alt="Scikit-Learn" width="60" height="40">
+</div>
+
+<!-- Block 3 - Database -->
+<div align="center">
+  <h3>Database</h3>
+  <img src="https://github.com/kunaL9804/Images_and_Stuff/blob/main/Language_and_Tools/sql.svg" alt="Database" width="40" height="40">
+  <img src="https://github.com/kunaL9804/Images_and_Stuff/blob/main/Language_and_Tools/mysql.svg" alt="MySQL" width="40" height="40">
+  <img src="https://github.com/kunaL9804/Images_and_Stuff/blob/main/Language_and_Tools/microsoft sql server.svg" alt="SQL Server" width="40" height="40">
+</div>
+
+<!-- Block 4 - Microsoft Office -->
+<div align="center">
+  <h3>Microsoft Office</h3>
+  <img src="https://github.com/kunaL9804/Images_and_Stuff/blob/main/Language_and_Tools/excel.svg" alt="Excel" width="40" height="40">
+  <img src="https://github.com/kunaL9804/Images_and_Stuff/blob/main/Language_and_Tools/word.svg" alt="Word" width="40" height="40">
+  <img src="https://github.com/kunaL9804/Images_and_Stuff/blob/main/Language_and_Tools/powerpoint.svg" alt="PowerPoint" width="40" height="40">
+  <img src="https://github.com/kunaL9804/Images_and_Stuff/blob/main/Language_and_Tools/powerbi.svg" alt="Power BI" width="40" height="40">
+</div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal9804&show_icons=true&locale=en&layout=compact" alt="kunal9804" /></p>
 
