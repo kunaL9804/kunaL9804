@@ -1,4 +1,4 @@
-![image](https://github.com/kunaL9804/kunal9804/assets/84136328/b950229f-33a7-4584-a7f0-a4674b5e28c9)<h1 align="center">Hi 👋, I'm Kunal Saini.</h1>
+<h1 align="center">Hi 👋, I'm Kunal Saini.</h1>
 <h2 align="center">I'm from India and passionate about Data Science.</h2>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/10105303/screenshots/20187422/media/2ea8189530edb0a5c181eeb592760da2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal9804&label=Profile%20views&color=0e75b6&style=flat" alt="kunal9804" /> </p>
@@ -20,10 +20,13 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/kunalsaini9804/" target="blank">
-    <img align="center" src="https://drive.google.com/file/d/1dFpVTdfMV6cDv9JsVqwKwp4psoNBQsui/view?usp=sharing" alt="https://www.linkedin.com/in/kunalsaini9804/" height="40" width="50" /></a>
-  <a href="https://twitter.com/kunall0_0ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunall0_0ll" height="40" width="50" /></a>
-  <a href="YOUR_DISCORD_LINK" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuxwing.com%2Fwp-content%2Fthemes%2Fuxwing%2Fdownload%2Fbrands-and-social-media%2Fdiscord-round-color-icon.svg&tbnid=GH_zGj7_Vn2C5M&vet=12ahUKEwiS79CwnJOBAxWazaACHRJjAwEQMygIegUIARCEAQ..i&imgrefurl=https%3A%2F%2Fuxwing.com%2Fdiscord-round-color-icon%2F&docid=P7sgaxyNAeADvM&w=800&h=800&q=discord%20icon&ved=2ahUKEwiS79CwnJOBAxWazaACHRJjAwEQMygIegUIARCEAQ" alt="Your Discord" height="40" width="50" /></a>
-  <a href="YOUR_TELEGRAM_LINK" target="blank"><img align="center" src="YOUR_TELEGRAM_ICON_URL" alt="Your Telegram" height="40" width="50" /></a>
+    <img align="center" src="https://github.com/kunaL9804/Images_and_Stuff/blob/main/Linkedin.svg" alt="https://www.linkedin.com/in/kunalsaini9804/" height="40" width="50" /></a>
+  <a href="https://twitter.com/kunall0_0ll" target="blank">
+    <img align="center" src="https://github.com/kunaL9804/Images_and_Stuff/blob/main/twitter.svg" alt="kunall0_0ll" height="40" width="50" /></a>
+  <a href="discordapp.com/users/kgh#3633" target="blank">
+    <img align="center" src="https://github.com/kunaL9804/Images_and_Stuff/blob/main/Discord.svg" alt="Your Discord" height="40" width="50" /></a>
+  <a href="https://telegram.me/kunal_052002" target="blank">
+    <img align="center" src="https://github.com/kunaL9804/Images_and_Stuff/blob/main/Telegram_logo.svg" alt="Your Telegram" height="40" width="50" /></a>
 </p>
 
 
