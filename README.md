@@ -66,8 +66,9 @@
   <img src="https://github.com/kunaL9804/Images_and_Stuffs/blob/main/Language_and_Tools/powerbi.svg" alt="Power BI" height="70" width="70">
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal9804&show_icons=true&locale=en&layout=compact" alt="kunal9804" /></p>
+<p> </p> <p> </p> <p> </p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal9804&show_icons=true&locale=en&layout=compact" alt="kunal9804" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kunal9804&show_icons=true&locale=en" alt="kunal9804" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=kunal9804&show_icons=true&locale=en" alt="kunal9804" /></p>
 
-<p>&nbsp;<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal9804&" alt="kunal9804" /></p>
+<p align="center">&nbsp;<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal9804&" alt="kunal9804" /></p>
